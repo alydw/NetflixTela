@@ -1,2 +1,2 @@
 # NetflixTela
-Recriação da tela inicial da Netflix
+Recriação da tela inicial da Netflix 👽
